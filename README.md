@@ -82,7 +82,7 @@ Flask-приложение, превращающее сохранённые ст
 ## 📫 Связаться со мной
 
 - 🌐 ВКонтакте: [vk.ru/id1080319202](https://vk.ru/id1080319202)
-- 💼 Академический профиль (eLIBRARY/РИНЦ, ORCID) — *(ссылка добавится позже)*
+- 💼 Академический профиль: [eLIBRARY — страница автора (AuthorID 73872, SPIN 8426-9617)](https://elibrary.ru/author_profile.asp?id=73872) · [ORCID 0000-0003-0743-7232](https://orcid.org/0000-0003-0743-7232)
 
 ---
 
@@ -158,6 +158,6 @@ Ideas for the next projects: consulting dashboards of regional statistics, gener
 ## 📫 Contact
 
 - 🌐 VKontakte: [vk.ru/id1080319202](https://vk.ru/id1080319202)
-- 💼 Academic profile (eLIBRARY, ORCID) — *(link to be added later)*
+- 💼 Academic profile: [eLIBRARY author page](https://elibrary.ru/author_profile.asp?id=73872) · [ORCID 0000-0003-0743-7232](https://orcid.org/0000-0003-0743-7232)
 
 </div>
